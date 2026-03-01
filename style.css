@@ -1,0 +1,22 @@
+#main-heading{
+    color: skyblue;
+    display: flex;
+    justify-content: center;
+}
+
+#address-para{
+    display: flex;
+    justify-content: right;
+}
+
+h2{
+    color: skyblue;
+}
+h4{
+    font-weight: 400px;
+    justify-content: left;
+}
+
+li{
+    justify-content: left;
+}
